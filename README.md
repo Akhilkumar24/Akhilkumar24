@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I am K AKHIL KUMAR</h1>
+<h1 align="center">hey there 👋 I am K AKHIL KUMAR from India </h1>
 
 ###
 
