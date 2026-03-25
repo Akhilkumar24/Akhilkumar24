@@ -68,8 +68,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Akhilkumar24/Akhilkumar24/output/snake.svg" alt="Snake animation" />
 
 ###
